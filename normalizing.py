@@ -17,6 +17,6 @@ sorted.sort()
 largest_value = sorted[-1]
 
 for i in range(length):
-    numbers[i] / largest_value
+    numbers[i] % largest_value
+    print(f'{numbers[i] / largest_value:.2f}')
     
-print(numbers)
