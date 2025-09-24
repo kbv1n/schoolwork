@@ -4,6 +4,11 @@ while x > 0:
     x = x // 2
 
 print('\n')
+012345
 
 
+
+
+
+farts
     
